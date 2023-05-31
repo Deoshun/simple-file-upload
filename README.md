@@ -41,8 +41,7 @@ Response
 ```
 
 {
-    "data": {
-        "images": [
+    "data": [
             {
                 "id": 1,
                 "originalName": "chrollo_lucilfer_v2__hunter_x_hunter__minimalism_by_greenmapple17_d8kymsg.png",
@@ -53,7 +52,6 @@ Response
                 "updatedAt": "2023-05-31T06:59:27.000Z"
             }
         ]
-    }
 }
 
 ```
