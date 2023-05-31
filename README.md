@@ -111,7 +111,7 @@ GET http://localhost:3000
 Response: "Lets do this!"
 
 
-#### Optional.
+#### Testing.
 
 Testing, you can run the unit tests written for this project
 
